@@ -1,0 +1,41 @@
+\begin{thebibliography}{1}
+
+\bibitem{MacKay2003-ITI}
+MacKay, D.:
+\newblock {Information Theory, Inference, \& Learning Algorithms}.
+\newblock Cambridge University Press (2003)
+
+\bibitem{Hastie2001-TEO}
+Hastie, T., Tibshirani, R., Friedman, J.:
+\newblock {The Elements of Statistical Learning}.
+\newblock Springer (2001)
+
+\bibitem{Ding2005-OTE}
+Ding, C., He, X., Simon, H.:
+\newblock {On the Equivalence of Nonnegative Matrix Factorization and Spectral
+  Clustering}.
+\newblock In: Proc. SDM, SIAM (2005)
+
+\bibitem{Gaussier2005-RBP}
+Gaussier, E., Goutte, C.:
+\newblock {Relations between PLSA and NMF and Implications}.
+\newblock In: Proc. SIGIR, ACM (2005)
+
+\bibitem{Kim2008-SNN}
+Kim, J., Park, H.:
+\newblock {Sparse Nonnegative Matrix Factorization for Clustering}.
+\newblock Technical Report GT-CSE-08-01, Georgia Institute of Technology (2008)
+
+\bibitem{Arora2013-SBC}
+Arora, R., Gupta, M., Kapila, A., Fazel, M.:
+\newblock {Similarity-based Clustering by Left-Stochastic Matrix
+  Factorization}.
+\newblock J. of Machine Learning Research \textbf{14}(Jul.) (2013)
+
+\bibitem{Bauckhage2015-CGB}
+Bauckhage, C., Drachen, A., Sifa, R.:
+\newblock {Clustering Game Behavior Data}.
+\newblock IEEE Trans. on Computational Intelligence and AI in Games
+  \textbf{7}(3) (2015)
+
+\end{thebibliography}
